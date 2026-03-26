@@ -1,3 +1,3 @@
 # PROVA LINGUAGENS E TÉCNICAS DE PROGRAMAÇÃO II
-ESTUDANTE : Gustavo Romão Elástico
-PROFESSOR : Esp. Marcos Raimundo
+- ESTUDANTE : Gustavo Romão Elástico
+- PROFESSOR : Esp. Marcos Raimundo
